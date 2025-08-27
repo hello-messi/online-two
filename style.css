@@ -1,0 +1,152 @@
+/*
+
+  // element
+  // class
+  // id
+  // attr
+  // element element
+  // element + element
+  // element > element
+
+*/
+
+
+
+/* p {
+  background-color: red;
+  padding: 10px;
+  margin: 10px;
+} */
+
+
+
+
+/* .test {
+  background-color: red;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+#myP {
+  background-color: yellow  ;
+  padding: 10px;
+  margin: 10px;
+} */
+
+
+/* 
+[test="osama"] {
+  background-color: red;
+} */
+
+
+
+/* div.test{
+  background-color: red;
+} */
+
+/* div > p {
+  background-color: red;
+} */
+
+/* 
+div.test > p {
+  background-color: red;
+} */
+
+
+/* p + div {
+  background-color: red;
+} */
+
+/*
+  padding
+  border
+  margin
+  display
+  font-size
+  font-stlye
+  text-align
+  text-decoration
+*/
+
+
+/* div {
+  background-color: red;
+  width: 100px;
+  height: 80px;
+  text-align: end;
+  color: white;
+} */
+
+
+
+/* p {
+  /* word-spacing: 50px; */
+  /* letter-spacing: 40px; */
+  /* line-height: 30px; */
+/* } */ 
+
+
+/*
+  rgb
+  hex
+  color
+  hsl
+*/
+
+
+
+div {
+  /* background-color: red;
+  height: 100px;
+  width: 100px;
+
+  border: 10px dashed green;
+
+  border-bottom: 10px solid green;
+  
+  border-right-color: transparent; */
+  /* padding: 10px; */
+  /* padding-left: 10px  ; */
+  /* padding: 10px 20px 30px 40px; */
+}
+
+
+/* .one {
+  margin-bottom: 10px;
+}
+
+.two {
+  margin-top: 20px;
+} */
+
+
+/* span {
+  display: block;
+} */
+
+
+
+/* 
+p {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+} */
+
+
+
+p,
+div,
+h1 {
+  background-color: red;
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  font-size: 50px;
+}
